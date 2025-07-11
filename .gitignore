@@ -1,6 +1,6 @@
-# Bỏ qua file chứa token
+# Bỏ file chứa token
 data/config.json
 
-# Hoặc bỏ toàn bộ thư mục nếu cần
-# data/
-
+# Cache Python
+__pycache__/
+*.pyc
