@@ -1,1 +1,6 @@
+# Bỏ qua file chứa token
+data/config.json
+
+# Hoặc bỏ toàn bộ thư mục nếu cần
+# data/
 
